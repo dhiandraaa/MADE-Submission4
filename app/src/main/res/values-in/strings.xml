@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Katalog Film</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv">Program TV</string>
+    <string name="title_fav">Favorit</string>
+    <string name="setting">Pengaturan</string>
+    <string name="release_date_label">Tanggal Rilis</string>
+    <string name="overview_label">Sinopsis</string>
+    <string name="details">Detail Film</string>
+    <string name="success_insert_fav">Item ditambahkan</string>
+    <string name="delete_from_fav">Hapus dari favorit</string>
+    <string name="confirm_message">Yakin ingin menghapus item ini?</string>
+    <string name="confirm_title">Konfirmasi</string>
+    <string name="success_info">Terhapus</string>
+    <string name="yes_btn">Ya</string>
+    <string name="no_btn">Tidak</string>
+    <string name="image_poster_movie">Image Poster Movie</string>
+    <string name="language">icon bahasa</string>
+
+</resources>
